@@ -9,6 +9,6 @@ I started by watching this YouTube video to try and understand the basics of cre
 
 [![](https://img.youtube.com/vi/BvNRtRuOALw/maxresdefault.jpg)](https://www.youtube.com/watch?v=BvNRtRuOALw)
 
-Time Spent: 40 mins
+Time Spent: 30 mins
 
 ---
