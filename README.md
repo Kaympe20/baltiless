@@ -1,13 +1,17 @@
 # Baltiless
 An antweight combat robot that hates baltimore
 
+## CAD
+
+The entire CAD workspace can be found on [onshape](https://cad.onshape.com/documents/90a72f74635ef8557d1759b8/w/d9ba49a82c021e2d515db92d/e/680649447d37402c596404bf?renderMode=0&uiState=686b2b2ea949966a701b1988)
+
 ## BOM
 
 ### Required Each Build
 
 * [Malenki-Nano](https://botbitz.com.au/collections/antweight-parts/products/malenki-nano) x1
 * [BotBitz HP N20 Gearmotor](https://botbitz.com.au/products/botbitz-hp-n20-gearmotor) x2
-* [Brushless 2204 Motor - 1400kV](https://botbitz.com.au/products/brushless-2204-motor-1400kv) x1
+* [Brushless 2205 Motor - 2300kV](https://www.amazon.com/Readytosky-RS2205-2300KV-Brushless-Multicopter/dp/B088NGCZ64) x1
 * [AM32 40A Budget ESC](https://botbitz.com.au/products/am32-40a-budget-esc) x1
 * [Turnigy BoltX LiHV 2S 550mAh 7.6V 80C LiPo Battery Pack w/XT30](https://hobbyking.com/en_us/550mah-2s-xt30-80c-lihv.html) x1
 

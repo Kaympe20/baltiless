@@ -34,3 +34,11 @@ I have begun CAD to make the chassis where all the parts will fit into.
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2553c17026d7e8383f2747c5319af052e8236ca8_image.png)
 
 Time Spent: 1hr
+
+---
+
+I am mostly done with the CAD side; there's just a few things I need to do and I should be off to the races.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2e65ae65783549485b4b5c0212fdd15a65666169_image.png)
+
+Time Spent: 4.5hr
