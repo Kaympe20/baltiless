@@ -42,3 +42,15 @@ I am mostly done with the CAD side; there's just a few things I need to do and I
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2e65ae65783549485b4b5c0212fdd15a65666169_image.png)
 
 Time Spent: 4.5hr
+
+---
+
+I improved on the design a lot, including making it a lot stronger, shrinking to allow for TPU deflectors, and moving stuff around to allow for a much bigger weapon.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/59c792062cfe6b2e4eb3de45bbd8b95bae3a3b9d_image.png)
+
+Next time, I'll get working on the TPU deflectors, actually modelling out the weapon, and other things nessecary to get it competition ready, such as adding a power switch and alan key power switch.
+
+Time Spent: 3.5hr
+
+---
