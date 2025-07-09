@@ -59,8 +59,14 @@ We now have a TPU deflector and a full blade. The deflector was a bit challengin
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ba732b85953aeb1a1321a7aa16f7c9202ce3dcc2_bot.gif)
 
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/845eefc46ee0e1a21086046b3cb4c4344c217d2b_image.png)
+
 The weapon was made to fit this standoff, which I repurposed as a hex-shaped shaft to attach the weapon to the M5 bolt on the motor.
+
+[![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6767dadd18076eff6b3931456a08185c4f115f41_image.png)](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/970300581/6174852)
 
 ![](https://emaxmodel.com/cdn/shop/products/img_4131_1.png?v=1598532540)
 
-[![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6767dadd18076eff6b3931456a08185c4f115f41_image.png)](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/970300581/6174852)
+Time Spent: 3hr
+
+---
