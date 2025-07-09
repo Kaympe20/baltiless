@@ -6,7 +6,7 @@ An antweight combat robot that hates baltimore
 
 ## CAD
 
-The entire CAD workspace can be found on [onshape](https://cad.onshape.com/documents/90a72f74635ef8557d1759b8/w/d9ba49a82c021e2d515db92d/e/680649447d37402c596404bf?renderMode=0&uiState=686b2b2ea949966a701b1988)
+The entire CAD workspace can be found on [Onshape](https://cad.onshape.com/documents/90a72f74635ef8557d1759b8/w/d9ba49a82c021e2d515db92d/e/680649447d37402c596404bf?renderMode=0&uiState=686b2b2ea949966a701b1988)
 
 ## BOM
 
