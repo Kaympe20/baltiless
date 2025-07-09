@@ -54,3 +54,13 @@ Next time, I'll get working on the TPU deflectors, actually modelling out the we
 Time Spent: 3.5hr
 
 ---
+
+We now have a TPU deflector and a full blade. The deflector was a bit challenging because putting it in required the body to be significantly smaller to still fit within the 4inx4in limit.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ba732b85953aeb1a1321a7aa16f7c9202ce3dcc2_bot.gif)
+
+The weapon was made to fit this standoff, which I repurposed as a hex-shaped shaft to attach the weapon to the M5 bolt on the motor.
+
+![](https://emaxmodel.com/cdn/shop/products/img_4131_1.png?v=1598532540)
+
+[![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6767dadd18076eff6b3931456a08185c4f115f41_image.png)](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/970300581/6174852)
