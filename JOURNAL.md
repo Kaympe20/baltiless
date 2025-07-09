@@ -70,3 +70,27 @@ The weapon was made to fit this standoff, which I repurposed as a hex-shaped sha
 Time Spent: 3hr
 
 ---
+
+I added the [FingerTech Mini Power Switch](https://repeat-robotics.com/buy/fingertech-switch/) because it stops a switch from needing to be on the top which could be unintentionally triggered.
+
+Originally, I couldn't find a place to mount it.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2b6c7bc6a0b00f92a08f8c5f638d09705ab94551_image.png)
+
+But then I realized I could use the little cutouts on the side and add inserts that would allow me to attach it to the left wheel well.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/eed22fd37199f7eec698ed558ef1b71326647c59_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/45591e21c6fbeca3690f22d2a2a506b0744b1a84_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2d55b2312fe226b553969fec85436224e3e60aae_image.png)
+
+In the bot's full current form, it looks like this:
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c47687a362ec0878b1bbe5aa74a80f8b881c42c0_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8f98f081054d968446a7e2f90042f8f36455c734_image.png)
+
+Time Spent: 1.5hr
+
+---
