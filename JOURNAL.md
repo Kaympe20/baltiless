@@ -5,6 +5,12 @@ description: "An antweight combat robot that hates baltimore"
 created_at: "2025-07-03"
 ---
 
+Total Time Spent: 16 hr 10 min
+
+---
+
+## July 6, 2025
+
 I started by watching this YouTube video to try and understand the basics of creating combat robots.
 
 [![](https://img.youtube.com/vi/BvNRtRuOALw/maxresdefault.jpg)](https://www.youtube.com/watch?v=BvNRtRuOALw)
@@ -37,6 +43,8 @@ Time Spent: 1hr
 
 ---
 
+## July 7, 2025
+
 I am mostly done with the CAD side; there's just a few things I need to do and I should be off to the races.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2e65ae65783549485b4b5c0212fdd15a65666169_image.png)
@@ -44,6 +52,8 @@ I am mostly done with the CAD side; there's just a few things I need to do and I
 Time Spent: 4.5hr
 
 ---
+
+## July 8, 2025
 
 I improved on the design a lot, including making it a lot stronger, shrinking to allow for TPU deflectors, and moving stuff around to allow for a much bigger weapon.
 
@@ -54,6 +64,8 @@ Next time, I'll get working on the TPU deflectors, actually modelling out the we
 Time Spent: 3.5hr
 
 ---
+
+## July 9, 2025
 
 We now have a TPU deflector and a full blade. The deflector was a bit challenging because putting it in required the body to be significantly smaller to still fit within the 4inx4in limit.
 
