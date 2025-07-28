@@ -5,7 +5,7 @@ description: "An antweight combat robot that hates baltimore"
 created_at: "2025-07-03"
 ---
 
-Total Time Spent: 16 hr 10 min
+Total Time Spent: 17 hr 10 min
 
 ---
 
@@ -106,3 +106,11 @@ In the bot's full current form, it looks like this:
 Time Spent: 1.5hr
 
 ---
+
+## July 28, 2025
+
+I made [Logan Peterson](https://github.com/SharKingStudios)'s' requested changes, including uploading the files and adding prices to the BOM. I also heavily optimized the BOM to keep it as cheap as possible, including going for a fully 3D printed weapon (we'll have to see how that one goes).
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/89faabeb79986a82cfc2850576da3b763a4d18a2_image.png)
+
+Time Spent: 1hr
