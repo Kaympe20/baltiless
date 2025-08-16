@@ -1,10 +1,11 @@
-Category,Item,Quantity,Price,Price After Taxes + Shipping,Link
-Required Each Build,Malenki-Nano,1,$28.00,$34.30,https://turnabot.com/products/malenki-nano-integrated-6-channel-triple-electronic-speed-controller-receiver-combo
-Required Each Build,N20 Gearmotor,2,$24.60,$26.08,https://turnabot.com/products/high-power-n10?variant=40166100041793
-Required Each Build,Brushless 2205 Motor - 2300kV,1,$14.29,$15.15,https://www.amazon.com/Qiilu-2200Kv-Brushless-Rs2205-Quadcopter/dp/B0C8K4D1B6
-Required Each Build,AM32 40A Budget ESC,1,$19.99,$21.19,https://www.amazon.com/Controller-Capacitor-Coverter-Airplane-Brushless/dp/B0F677BT7X
-Required Each Build,2S 550mAh 7.6V 80C LiPo Battery Pack w/XT30,1,$12.99,$13.77,https://www.amazon.com/Tattu-R-Line-550mAh-7-4V-Battery/dp/B097BTRH2X
-Required Each Build,M2 Heat Set Inserts,1,$8.99,$9.53,https://www.amazon.com/ruthex-Threaded-Insert-pieces-ultrasound/dp/B088QJG676
-Required Each Build,M5 Female to Female Standoff x 25mm,2,$1.40,$6.78,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/970300581/6174852
-Required Once,Battery Charger,1,$15.99,$16.95,https://www.amazon.com/SUPULSE-Battery-Charger-7-4-11-1V-B3V2/dp/B099K8XFG6
-Required Once,A compatible transmitter (Flysky FS-i6x),1,$54.99,$59.29,https://www.amazon.com/DTXMX-Transmitter-Receiver-Channels-Quadcopter/dp/B0B69B3QCS
+Category,Item,Link,Quantity,Price,Price After Taxes + Shipping
+Required Each Build,Malenki-Nano,https://turnabot.com/products/malenki-nano-integrated-6-channel-triple-electronic-speed-controller-receiver-combo,1,$28.00,$34.30
+Required Each Build,N20 Gearmotor,https://www.aliexpress.us/item/2251832836005412.html,2,$4.46,$11.58
+Required Each Build,Brushless 2205 Motor - 2300kV,https://www.aliexpress.us/item/3256807958524880.html,1,$7.41,$8.85
+Required Each Build,AM32 40A Budget ESC with BEC,https://www.aliexpress.us/item/3256807247202971.html,1,$11.38,$17.65
+Required Each Build,2S 550mAh 7.6V 80C LiPo Battery Pack w/XT30,https://hobbyking.com/en_us/550mah-2s-xt30-80c-lihv.html,1,$6.64,$13.77
+Required Each Build,XT30 Battery Connector,https://www.aliexpress.us/item/3256806414638022.html,1,$1.69,$5.22
+Required Each Build,M2 Heat Set Inserts,https://www.amazon.com/ruthex-Threaded-Insert-pieces-ultrasound/dp/B088QJG676,1,$8.99,$9.53
+Required Each Build,M5 Female to Female Standoff x 25mm,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/970300581/6174852,2,$1.40,$6.78
+Required Once,Battery Charger,https://www.amazon.com/SUPULSE-Battery-Charger-7-4-11-1V-B3V2/dp/B099K8XFG6,1,$15.99,$16.95
+Required Once,A compatible transmitter (Flysky FS-i6x),https://www.amazon.com/DTXMX-Transmitter-Receiver-Channels-Quadcopter/dp/B0B69B3QCS,1,$54.99,$59.29
